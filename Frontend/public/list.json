@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name": "How to have a good day",
+        "title": "Inspirational,self help",
+        "price":0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-quantum-illustration_23-2149243394.jpg?t=st=1724017679~exp=1724021279~hmac=c5d8beadf4948b1d64d3b7c4aaedc80d4007b3d0d985cc0b26ef9dc709cd7252&w=740",
+        "googleDriveLink": "https://drive.google.com/file/d/1rKzf-Xiyioa9okyLeApktSc4ABMkoX9j/view?usp=sharing"
+    },
+    {
+        "id":2,
+        "name": "Deep Work",
+        "title": "Motivational",
+        "price":0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/flat-design-learn-from-home-illustration_23-2149245120.jpg?t=st=1724017866~exp=1724021466~hmac=9969be53b08ae2671312ba9c3ccf71d9ed7c5a4b2d21cbf4e8af395220cd9efe&w=740",
+        "googleDriveLink": "https://drive.google.com/file/d/1hu34mHxqRQFPwYhfe24PyNPyRYiRcZ1v/view?usp=sharing"
+    },
+    {
+        "id":3,
+        "name": "Atomic Habits",
+        "title": "Self help,Motivational",
+        "price":0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/creative-abstract-quantum-illustration_23-2149237955.jpg?t=st=1724017649~exp=1724021249~hmac=5eb71693ce84f75bdfdc758318c009d78c3cc143fcd7ddbc144bdf02836d2b73&w=740",
+        "googleDriveLink":"https://drive.google.com/file/d/1Y5Cy6s5V_7MQxexFHNwLrRo7bQvNlFj5/view?usp=sharing"
+
+    },
+    {
+        "id":4,
+        "name": "Motivational",
+        "title": "good luck",
+        "price":0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723918325~exp=1723921925~hmac=e4535aaefd2d425715da14c9e2e679a1f6f60fd2e49562f94e645f681bc73fc8&w=740"
+
+    }
+]
